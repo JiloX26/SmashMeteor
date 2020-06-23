@@ -1,0 +1,33 @@
+﻿{
+	"version": 1592896089,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bg_depan-sheet0.png",
+		"images/play-sheet0.png",
+		"images/bg_main-sheet0.png",
+		"images/satelit-sheet0.png",
+		"images/komet-sheet0.png",
+		"images/live-sheet0.png",
+		"images/live-sheet1.png",
+		"images/bg_akhir-sheet0.png",
+		"images/playagain-sheet0.png",
+		"images/particles.png",
+		"images/komet1-sheet0.png",
+		"images/komet2-sheet0.png",
+		"images/ufo-sheet0.png",
+		"images/bg_main_awal-sheet0.png",
+		"images/next-sheet0.png",
+		"images/bg_main_awal2-sheet0.png",
+		"images/asteroid-sheet0.png",
+		"media/8-bit-seas_-water-level-game-music-by-heatleybros.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
